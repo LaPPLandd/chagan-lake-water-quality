@@ -1,0 +1,17 @@
+## ACOLITE settings
+## Written at 2021-11-30 18:02:59
+inputfile=D:\work\chagandemo\temp\unzip\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002.SEN3
+output=D:\work\chagandemo\temp\acolite\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002.SEN3
+polygon=D:\work\chagandemo\data\shp\chaganbig\chagan_big.shp
+l2w_parameters=Rrs_*
+rgb_rhot=False
+rgb_rhos=False
+map_l2w=True
+runid=20211130_175720
+l2w_mask=False
+l2w_mask_threshold=1
+l1r_delete_netcdf=True
+l2r_delete_netcdf=True
+l2r_export_geotiff=True
+l2w_export_geotiff=True
+

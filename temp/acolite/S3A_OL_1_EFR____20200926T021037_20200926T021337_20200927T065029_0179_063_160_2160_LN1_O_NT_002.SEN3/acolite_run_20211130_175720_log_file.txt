@@ -1,0 +1,546 @@
+2026-07-19 13:57:09: Running ACOLITE processing - 20250402.0
+2026-07-19 13:57:09: Python - win32 - 3.12.8 | packaged by conda-forge | (main, Dec  5 2024, 14:06:27) [MSC v.1942 64 bit (AMD64)]
+2026-07-19 13:57:09: Platform - Windows 11 - AMD64 - 10.0.26200
+2026-07-19 13:57:09: Run ID - 20211130_175720
+2026-07-19 13:57:09: Using limit from polygon envelope: [45.0, 123.5, 45.5, 124.5]
+2026-07-19 13:57:09: Warning: Rather long input filename (224 characters)
+2026-07-19 13:57:09: This may give issues in Windows due to path length limitations, file(s):
+2026-07-19 13:57:09: 224
+2026-07-19 13:57:09: D:\work\chagandemo\temp\unzip\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002.SEN3
+2026-07-19 13:57:09: Identified D:\work\chagandemo\temp\unzip\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002.SEN3 as Sentinel-3 type
+2026-07-19 13:57:09: Starting conversion of 1 scene
+2026-07-19 13:57:09: 0
+2026-07-19 13:57:09: D:\work\chagandemo\temp\unzip\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002.SEN3
+2026-07-19 13:57:10: Oa01_radiance
+2026-07-19 13:57:10: (246, 330)
+2026-07-19 13:57:10: Applying gain 0.97546 for Oa01_radiance
+2026-07-19 13:57:10: Oa02_radiance
+2026-07-19 13:57:10: (246, 330)
+2026-07-19 13:57:10: Applying gain 0.97406 for Oa02_radiance
+2026-07-19 13:57:10: Oa03_radiance
+2026-07-19 13:57:10: (246, 330)
+2026-07-19 13:57:10: Applying gain 0.97492 for Oa03_radiance
+2026-07-19 13:57:10: Oa04_radiance
+2026-07-19 13:57:10: (246, 330)
+2026-07-19 13:57:10: Applying gain 0.96890 for Oa04_radiance
+2026-07-19 13:57:10: Oa05_radiance
+2026-07-19 13:57:10: (246, 330)
+2026-07-19 13:57:10: Applying gain 0.97184 for Oa05_radiance
+2026-07-19 13:57:10: Oa06_radiance
+2026-07-19 13:57:10: (246, 330)
+2026-07-19 13:57:10: Applying gain 0.97571 for Oa06_radiance
+2026-07-19 13:57:10: Oa07_radiance
+2026-07-19 13:57:10: (246, 330)
+2026-07-19 13:57:10: Applying gain 0.98001 for Oa07_radiance
+2026-07-19 13:57:10: Oa08_radiance
+2026-07-19 13:57:10: (246, 330)
+2026-07-19 13:57:10: Applying gain 0.97834 for Oa08_radiance
+2026-07-19 13:57:10: Oa09_radiance
+2026-07-19 13:57:10: (246, 330)
+2026-07-19 13:57:10: Applying gain 0.97860 for Oa09_radiance
+2026-07-19 13:57:10: Oa10_radiance
+2026-07-19 13:57:10: (246, 330)
+2026-07-19 13:57:10: Applying gain 0.97908 for Oa10_radiance
+2026-07-19 13:57:10: Oa11_radiance
+2026-07-19 13:57:10: (246, 330)
+2026-07-19 13:57:10: Applying gain 0.98013 for Oa11_radiance
+2026-07-19 13:57:10: Oa12_radiance
+2026-07-19 13:57:10: (246, 330)
+2026-07-19 13:57:10: Applying gain 0.98552 for Oa12_radiance
+2026-07-19 13:57:10: Oa13_radiance
+2026-07-19 13:57:10: (246, 330)
+2026-07-19 13:57:10: Applying gain 1.00000 for Oa13_radiance
+2026-07-19 13:57:10: Oa14_radiance
+2026-07-19 13:57:10: (246, 330)
+2026-07-19 13:57:10: Applying gain 1.00000 for Oa14_radiance
+2026-07-19 13:57:10: Oa15_radiance
+2026-07-19 13:57:10: (246, 330)
+2026-07-19 13:57:10: Applying gain 1.00000 for Oa15_radiance
+2026-07-19 13:57:10: Oa16_radiance
+2026-07-19 13:57:10: (246, 330)
+2026-07-19 13:57:10: Applying gain 0.98772 for Oa16_radiance
+2026-07-19 13:57:10: Oa17_radiance
+2026-07-19 13:57:10: (246, 330)
+2026-07-19 13:57:10: Applying gain 0.98600 for Oa17_radiance
+2026-07-19 13:57:10: Oa18_radiance
+2026-07-19 13:57:10: (246, 330)
+2026-07-19 13:57:10: Applying gain 0.98657 for Oa18_radiance
+2026-07-19 13:57:10: Oa19_radiance
+2026-07-19 13:57:10: (246, 330)
+2026-07-19 13:57:10: Applying gain 1.00000 for Oa19_radiance
+2026-07-19 13:57:10: Oa20_radiance
+2026-07-19 13:57:10: (246, 330)
+2026-07-19 13:57:10: Applying gain 1.00000 for Oa20_radiance
+2026-07-19 13:57:10: Oa21_radiance
+2026-07-19 13:57:10: (246, 330)
+2026-07-19 13:57:10: Applying gain 0.91316 for Oa21_radiance
+2026-07-19 13:57:11: Getting ancillary data for 2020-09-26T02:10:37.284077+00:00 124.001E 45.247N
+2026-07-19 13:57:11: Downloading file GMAO_MERRA2.20200926T020000.MET.nc
+2026-07-19 13:57:11: EARTHDATA user name and password required for download of https://oceandata.sci.gsfc.nasa.gov/ob/getfile/GMAO_MERRA2.20200926T020000.MET.nc
+2026-07-19 13:57:11: Finished downloading file GMAO_MERRA2.20200926T020000.MET.nc
+2026-07-19 13:57:11: Downloading file GMAO_MERRA2.20200926T030000.MET.nc
+2026-07-19 13:57:11: EARTHDATA user name and password required for download of https://oceandata.sci.gsfc.nasa.gov/ob/getfile/GMAO_MERRA2.20200926T030000.MET.nc
+2026-07-19 13:57:11: Finished downloading file GMAO_MERRA2.20200926T030000.MET.nc
+2026-07-19 13:57:11: No ozone file found for 2020-09-26 02:10:37.284077+00:00
+2026-07-19 13:57:11: No NCEP files found for 2020-09-26 02:10:37.284077+00:00
+2026-07-19 13:57:11: current uoz: 0.30 uwv: 1.50 pressure: 1013.25
+2026-07-19 13:57:11: (246, 330)
+2026-07-19 13:57:11: Running smile correction
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Gas correction before smile correction
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction for band Oa01 400.0 nm
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction - bounding bands Oa01/Oa02
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction for band Oa02 412.5 nm
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction - bounding bands Oa01/Oa03
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction for band Oa03 442.5 nm
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction - bounding bands Oa02/Oa04
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction for band Oa04 490.0 nm
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction - bounding bands Oa03/Oa05
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction for band Oa05 510.0 nm
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction - bounding bands Oa04/Oa06
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction for band Oa06 560.0 nm
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction - bounding bands Oa05/Oa07
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction for band Oa07 620.0 nm
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction - bounding bands Oa06/Oa08
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction for band Oa08 665.0 nm
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction - bounding bands Oa07/Oa09
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction for band Oa09 673.75 nm
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction - bounding bands Oa08/Oa09
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction for band Oa10 681.25 nm
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction for band Oa11 708.75 nm
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction - bounding bands Oa11/Oa12
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction for band Oa12 753.75 nm
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction - bounding bands Oa11/Oa12
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction for band Oa13 761.25 nm
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction for band Oa14 764.375 nm
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction for band Oa15 767.5 nm
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction for band Oa16 778.75 nm
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction - bounding bands Oa16/Oa17
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction for band Oa17 865.0 nm
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction - bounding bands Oa16/Oa18
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction for band Oa18 885.0 nm
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction - bounding bands Oa17/Oa18
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction for band Oa19 900.0 nm
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction for band Oa20 940.0 nm
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction for band Oa21 1020.0 nm
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Smile correction - bounding bands Oa18/Oa21
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Gas correction restored after smile correction
+2026-07-19 13:57:11: Writing geolocation
+2026-07-19 13:57:11: Writing geometry
+2026-07-19 13:57:11: Writing TOA reflectance
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Reading TOA data for 400 nm
+2026-07-19 13:57:11: (246, 330)
+2026-07-19 13:57:11: Converting bands: Wrote rhot_400 ((246, 330))
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Reading TOA data for 412 nm
+2026-07-19 13:57:11: (246, 330)
+2026-07-19 13:57:11: Converting bands: Wrote rhot_412 ((246, 330))
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Reading TOA data for 443 nm
+2026-07-19 13:57:11: (246, 330)
+2026-07-19 13:57:11: Converting bands: Wrote rhot_443 ((246, 330))
+2026-07-19 13:57:11: 2026-07-19T13:57:11 - Reading TOA data for 490 nm
+2026-07-19 13:57:11: (246, 330)
+2026-07-19 13:57:12: Converting bands: Wrote rhot_490 ((246, 330))
+2026-07-19 13:57:12: 2026-07-19T13:57:12 - Reading TOA data for 510 nm
+2026-07-19 13:57:12: (246, 330)
+2026-07-19 13:57:12: Converting bands: Wrote rhot_510 ((246, 330))
+2026-07-19 13:57:12: 2026-07-19T13:57:12 - Reading TOA data for 560 nm
+2026-07-19 13:57:12: (246, 330)
+2026-07-19 13:57:12: Converting bands: Wrote rhot_560 ((246, 330))
+2026-07-19 13:57:12: 2026-07-19T13:57:12 - Reading TOA data for 620 nm
+2026-07-19 13:57:12: (246, 330)
+2026-07-19 13:57:12: Converting bands: Wrote rhot_620 ((246, 330))
+2026-07-19 13:57:12: 2026-07-19T13:57:12 - Reading TOA data for 665 nm
+2026-07-19 13:57:12: (246, 330)
+2026-07-19 13:57:12: Converting bands: Wrote rhot_665 ((246, 330))
+2026-07-19 13:57:12: 2026-07-19T13:57:12 - Reading TOA data for 674 nm
+2026-07-19 13:57:12: (246, 330)
+2026-07-19 13:57:12: Converting bands: Wrote rhot_674 ((246, 330))
+2026-07-19 13:57:12: 2026-07-19T13:57:12 - Reading TOA data for 682 nm
+2026-07-19 13:57:12: (246, 330)
+2026-07-19 13:57:12: Converting bands: Wrote rhot_682 ((246, 330))
+2026-07-19 13:57:12: 2026-07-19T13:57:12 - Reading TOA data for 709 nm
+2026-07-19 13:57:12: (246, 330)
+2026-07-19 13:57:12: Converting bands: Wrote rhot_709 ((246, 330))
+2026-07-19 13:57:12: 2026-07-19T13:57:12 - Reading TOA data for 754 nm
+2026-07-19 13:57:12: (246, 330)
+2026-07-19 13:57:12: Converting bands: Wrote rhot_754 ((246, 330))
+2026-07-19 13:57:12: 2026-07-19T13:57:12 - Reading TOA data for 762 nm
+2026-07-19 13:57:12: (246, 330)
+2026-07-19 13:57:12: Converting bands: Wrote rhot_762 ((246, 330))
+2026-07-19 13:57:12: 2026-07-19T13:57:12 - Reading TOA data for 765 nm
+2026-07-19 13:57:12: (246, 330)
+2026-07-19 13:57:12: Converting bands: Wrote rhot_765 ((246, 330))
+2026-07-19 13:57:12: 2026-07-19T13:57:12 - Reading TOA data for 768 nm
+2026-07-19 13:57:12: (246, 330)
+2026-07-19 13:57:12: Converting bands: Wrote rhot_768 ((246, 330))
+2026-07-19 13:57:12: 2026-07-19T13:57:12 - Reading TOA data for 779 nm
+2026-07-19 13:57:12: (246, 330)
+2026-07-19 13:57:12: Converting bands: Wrote rhot_779 ((246, 330))
+2026-07-19 13:57:12: 2026-07-19T13:57:12 - Reading TOA data for 865 nm
+2026-07-19 13:57:12: (246, 330)
+2026-07-19 13:57:12: Converting bands: Wrote rhot_865 ((246, 330))
+2026-07-19 13:57:12: 2026-07-19T13:57:12 - Reading TOA data for 884 nm
+2026-07-19 13:57:12: (246, 330)
+2026-07-19 13:57:12: Converting bands: Wrote rhot_884 ((246, 330))
+2026-07-19 13:57:12: 2026-07-19T13:57:12 - Reading TOA data for 899 nm
+2026-07-19 13:57:12: (246, 330)
+2026-07-19 13:57:12: Converting bands: Wrote rhot_899 ((246, 330))
+2026-07-19 13:57:12: 2026-07-19T13:57:12 - Reading TOA data for 939 nm
+2026-07-19 13:57:12: (246, 330)
+2026-07-19 13:57:12: Converting bands: Wrote rhot_939 ((246, 330))
+2026-07-19 13:57:12: 2026-07-19T13:57:12 - Reading TOA data for 1016 nm
+2026-07-19 13:57:12: (246, 330)
+2026-07-19 13:57:12: Converting bands: Wrote rhot_1016 ((246, 330))
+2026-07-19 13:57:12: Conversion took 2.6 seconds
+2026-07-19 13:57:12: Created D:\work\chagandemo\temp\acolite\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002.SEN3/S3A_OLCI_2020_09_26_02_10_37_FR_L1R.nc
+2026-07-19 13:57:12: Running acolite for D:\work\chagandemo\temp\acolite\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002.SEN3/S3A_OLCI_2020_09_26_02_10_37_FR_L1R.nc
+2026-07-19 13:57:12: Getting ancillary data for 2020-09-26T02:10:37.284077+00:00 124.002E 45.251N
+2026-07-19 13:57:12: Downloading file GMAO_MERRA2.20200926T020000.MET.nc
+2026-07-19 13:57:12: EARTHDATA user name and password required for download of https://oceandata.sci.gsfc.nasa.gov/ob/getfile/GMAO_MERRA2.20200926T020000.MET.nc
+2026-07-19 13:57:12: Finished downloading file GMAO_MERRA2.20200926T020000.MET.nc
+2026-07-19 13:57:12: Downloading file GMAO_MERRA2.20200926T030000.MET.nc
+2026-07-19 13:57:12: EARTHDATA user name and password required for download of https://oceandata.sci.gsfc.nasa.gov/ob/getfile/GMAO_MERRA2.20200926T030000.MET.nc
+2026-07-19 13:57:12: Finished downloading file GMAO_MERRA2.20200926T030000.MET.nc
+2026-07-19 13:57:12: No ozone file found for 2020-09-26T02:10:37.284077+00:00
+2026-07-19 13:57:12: No NCEP files found for 2020-09-26T02:10:37.284077+00:00
+2026-07-19 13:57:12: default uoz: 0.30 uwv: 1.50 pressure: 1013.25
+2026-07-19 13:57:12: current uoz: 0.30 uwv: 1.50 pressure: 1013.25
+2026-07-19 13:57:12: Using DSF atmospheric correction
+2026-07-19 13:57:12: Processing with 9 tiles (3x3 tiles of 120x120 pixels)
+2026-07-19 13:57:12: Writing lon
+2026-07-19 13:57:12: Wrote lon (246, 330)
+2026-07-19 13:57:12: Writing lat
+2026-07-19 13:57:12: Wrote lat (246, 330)
+2026-07-19 13:57:12: Writing sza
+2026-07-19 13:57:12: Wrote sza (246, 330)
+2026-07-19 13:57:12: Writing vza
+2026-07-19 13:57:12: Wrote vza (246, 330)
+2026-07-19 13:57:12: Writing saa
+2026-07-19 13:57:12: Wrote saa (246, 330)
+2026-07-19 13:57:12: Writing vaa
+2026-07-19 13:57:12: Wrote vaa (246, 330)
+2026-07-19 13:57:12: Writing raa
+2026-07-19 13:57:12: Wrote raa (246, 330)
+2026-07-19 13:57:12: Loading LUTs ['ACOLITE-LUT-202110-MOD1', 'ACOLITE-LUT-202110-MOD2']
+2026-07-19 13:57:20: Loading LUTs took 8.0 s
+2026-07-19 13:57:20: Running AOT estimation for band Oa03 (rhot_443)
+2026-07-19 13:57:20: S3A_OLCI/BOa03 ACOLITE-LUT-202110-MOD1 took 0.013s (RevLUT)
+2026-07-19 13:57:20: S3A_OLCI/BOa03 ACOLITE-LUT-202110-MOD2 took 0.000s (RevLUT)
+2026-07-19 13:57:20: Running AOT estimation for band Oa04 (rhot_490)
+2026-07-19 13:57:20: S3A_OLCI/BOa04 ACOLITE-LUT-202110-MOD1 took 0.002s (RevLUT)
+2026-07-19 13:57:20: S3A_OLCI/BOa04 ACOLITE-LUT-202110-MOD2 took 0.002s (RevLUT)
+2026-07-19 13:57:20: Running AOT estimation for band Oa05 (rhot_510)
+2026-07-19 13:57:20: S3A_OLCI/BOa05 ACOLITE-LUT-202110-MOD1 took 0.005s (RevLUT)
+2026-07-19 13:57:20: S3A_OLCI/BOa05 ACOLITE-LUT-202110-MOD2 took 0.004s (RevLUT)
+2026-07-19 13:57:20: Running AOT estimation for band Oa06 (rhot_560)
+2026-07-19 13:57:20: S3A_OLCI/BOa06 ACOLITE-LUT-202110-MOD1 took 0.007s (RevLUT)
+2026-07-19 13:57:20: S3A_OLCI/BOa06 ACOLITE-LUT-202110-MOD2 took 0.002s (RevLUT)
+2026-07-19 13:57:20: Running AOT estimation for band Oa07 (rhot_620)
+2026-07-19 13:57:20: S3A_OLCI/BOa07 ACOLITE-LUT-202110-MOD1 took 0.003s (RevLUT)
+2026-07-19 13:57:20: S3A_OLCI/BOa07 ACOLITE-LUT-202110-MOD2 took 0.004s (RevLUT)
+2026-07-19 13:57:20: Running AOT estimation for band Oa08 (rhot_665)
+2026-07-19 13:57:20: S3A_OLCI/BOa08 ACOLITE-LUT-202110-MOD1 took 0.002s (RevLUT)
+2026-07-19 13:57:20: S3A_OLCI/BOa08 ACOLITE-LUT-202110-MOD2 took 0.004s (RevLUT)
+2026-07-19 13:57:20: Running AOT estimation for band Oa09 (rhot_674)
+2026-07-19 13:57:20: S3A_OLCI/BOa09 ACOLITE-LUT-202110-MOD1 took 0.002s (RevLUT)
+2026-07-19 13:57:20: S3A_OLCI/BOa09 ACOLITE-LUT-202110-MOD2 took 0.000s (RevLUT)
+2026-07-19 13:57:20: Running AOT estimation for band Oa10 (rhot_682)
+2026-07-19 13:57:20: S3A_OLCI/BOa10 ACOLITE-LUT-202110-MOD1 took 0.000s (RevLUT)
+2026-07-19 13:57:20: S3A_OLCI/BOa10 ACOLITE-LUT-202110-MOD2 took 0.006s (RevLUT)
+2026-07-19 13:57:20: Running AOT estimation for band Oa11 (rhot_709)
+2026-07-19 13:57:20: S3A_OLCI/BOa11 ACOLITE-LUT-202110-MOD1 took 0.002s (RevLUT)
+2026-07-19 13:57:20: S3A_OLCI/BOa11 ACOLITE-LUT-202110-MOD2 took 0.002s (RevLUT)
+2026-07-19 13:57:20: Running AOT estimation for band Oa12 (rhot_754)
+2026-07-19 13:57:20: S3A_OLCI/BOa12 ACOLITE-LUT-202110-MOD1 took 0.000s (RevLUT)
+2026-07-19 13:57:20: S3A_OLCI/BOa12 ACOLITE-LUT-202110-MOD2 took 0.006s (RevLUT)
+2026-07-19 13:57:20: Running AOT estimation for band Oa15 (rhot_768)
+2026-07-19 13:57:20: S3A_OLCI/BOa15 ACOLITE-LUT-202110-MOD1 took 0.000s (RevLUT)
+2026-07-19 13:57:20: S3A_OLCI/BOa15 ACOLITE-LUT-202110-MOD2 took 0.001s (RevLUT)
+2026-07-19 13:57:20: Running AOT estimation for band Oa16 (rhot_779)
+2026-07-19 13:57:20: S3A_OLCI/BOa16 ACOLITE-LUT-202110-MOD1 took 0.006s (RevLUT)
+2026-07-19 13:57:20: S3A_OLCI/BOa16 ACOLITE-LUT-202110-MOD2 took 0.003s (RevLUT)
+2026-07-19 13:57:20: Running AOT estimation for band Oa17 (rhot_865)
+2026-07-19 13:57:20: S3A_OLCI/BOa17 ACOLITE-LUT-202110-MOD1 took 0.000s (RevLUT)
+2026-07-19 13:57:20: S3A_OLCI/BOa17 ACOLITE-LUT-202110-MOD2 took 0.006s (RevLUT)
+2026-07-19 13:57:20: Running AOT estimation for band Oa18 (rhot_884)
+2026-07-19 13:57:20: S3A_OLCI/BOa18 ACOLITE-LUT-202110-MOD1 took 0.000s (RevLUT)
+2026-07-19 13:57:20: S3A_OLCI/BOa18 ACOLITE-LUT-202110-MOD2 took 0.002s (RevLUT)
+2026-07-19 13:57:20: Running AOT estimation for band Oa21 (rhot_1016)
+2026-07-19 13:57:20: S3A_OLCI/BOa21 ACOLITE-LUT-202110-MOD1 took 0.003s (RevLUT)
+2026-07-19 13:57:20: S3A_OLCI/BOa21 ACOLITE-LUT-202110-MOD2 took 0.004s (RevLUT)
+2026-07-19 13:57:20: Choosing best fitting model: min_drmsd (2 bands)
+2026-07-19 13:57:20: Computing RMSD for model ACOLITE-LUT-202110-MOD1
+2026-07-19 13:57:20: Computing RMSD for model ACOLITE-LUT-202110-MOD2
+2026-07-19 13:57:20: Selecting most common model for processing.
+2026-07-19 13:57:20: ACOLITE-LUT-202110-MOD1: 33.3%: mean aot of subset = 0.49
+2026-07-19 13:57:20: ACOLITE-LUT-202110-MOD2: 66.7%: mean aot of subset = 0.58
+2026-07-19 13:57:20: Selected ACOLITE-LUT-202110-MOD2, mean aot = 0.51
+2026-07-19 13:57:20: use_revlut
+2026-07-19 13:57:20: True
+2026-07-19 13:57:20: Wrote rhot_400 (246, 330)
+2026-07-19 13:57:20: Computing surface reflectance
+2026-07-19 13:57:20: Oa01
+2026-07-19 13:57:20: 400
+2026-07-19 13:57:20: 1.000
+2026-07-19 13:57:20: Interpolating tiles
+2026-07-19 13:57:20: Wrote rhos_400 (246, 330)
+2026-07-19 13:57:20: S3A_OLCI/BOa01 took 0.1s (RevLUT)
+2026-07-19 13:57:20: Wrote rhot_412 (246, 330)
+2026-07-19 13:57:20: Computing surface reflectance
+2026-07-19 13:57:20: Oa02
+2026-07-19 13:57:20: 412
+2026-07-19 13:57:20: 1.000
+2026-07-19 13:57:20: Interpolating tiles
+2026-07-19 13:57:21: Wrote rhos_412 (246, 330)
+2026-07-19 13:57:21: S3A_OLCI/BOa02 took 0.1s (RevLUT)
+2026-07-19 13:57:21: Wrote rhot_443 (246, 330)
+2026-07-19 13:57:21: Computing surface reflectance
+2026-07-19 13:57:21: Oa03
+2026-07-19 13:57:21: 443
+2026-07-19 13:57:21: 0.998
+2026-07-19 13:57:21: Interpolating tiles
+2026-07-19 13:57:21: Wrote rhos_443 (246, 330)
+2026-07-19 13:57:21: S3A_OLCI/BOa03 took 0.1s (RevLUT)
+2026-07-19 13:57:21: Wrote rhot_490 (246, 330)
+2026-07-19 13:57:21: Computing surface reflectance
+2026-07-19 13:57:21: Oa04
+2026-07-19 13:57:21: 490
+2026-07-19 13:57:21: 0.984
+2026-07-19 13:57:21: Interpolating tiles
+2026-07-19 13:57:21: Wrote rhos_490 (246, 330)
+2026-07-19 13:57:21: S3A_OLCI/BOa04 took 0.0s (RevLUT)
+2026-07-19 13:57:21: Wrote rhot_510 (246, 330)
+2026-07-19 13:57:21: Computing surface reflectance
+2026-07-19 13:57:21: Oa05
+2026-07-19 13:57:21: 510
+2026-07-19 13:57:21: 0.969
+2026-07-19 13:57:21: Interpolating tiles
+2026-07-19 13:57:21: Wrote rhos_510 (246, 330)
+2026-07-19 13:57:21: S3A_OLCI/BOa05 took 0.0s (RevLUT)
+2026-07-19 13:57:21: Wrote rhot_560 (246, 330)
+2026-07-19 13:57:21: Computing surface reflectance
+2026-07-19 13:57:21: Oa06
+2026-07-19 13:57:21: 560
+2026-07-19 13:57:21: 0.921
+2026-07-19 13:57:21: Interpolating tiles
+2026-07-19 13:57:21: Wrote rhos_560 (246, 330)
+2026-07-19 13:57:21: S3A_OLCI/BOa06 took 0.0s (RevLUT)
+2026-07-19 13:57:21: Wrote rhot_620 (246, 330)
+2026-07-19 13:57:21: Computing surface reflectance
+2026-07-19 13:57:21: Oa07
+2026-07-19 13:57:21: 620
+2026-07-19 13:57:21: 0.920
+2026-07-19 13:57:21: Interpolating tiles
+2026-07-19 13:57:21: Wrote rhos_620 (246, 330)
+2026-07-19 13:57:21: S3A_OLCI/BOa07 took 0.0s (RevLUT)
+2026-07-19 13:57:21: Wrote rhot_665 (246, 330)
+2026-07-19 13:57:21: Computing surface reflectance
+2026-07-19 13:57:21: Oa08
+2026-07-19 13:57:21: 665
+2026-07-19 13:57:21: 0.961
+2026-07-19 13:57:21: Interpolating tiles
+2026-07-19 13:57:21: Wrote rhos_665 (246, 330)
+2026-07-19 13:57:21: S3A_OLCI/BOa08 took 0.0s (RevLUT)
+2026-07-19 13:57:21: Wrote rhot_674 (246, 330)
+2026-07-19 13:57:21: Computing surface reflectance
+2026-07-19 13:57:21: Oa09
+2026-07-19 13:57:21: 674
+2026-07-19 13:57:21: 0.969
+2026-07-19 13:57:21: Interpolating tiles
+2026-07-19 13:57:21: Wrote rhos_674 (246, 330)
+2026-07-19 13:57:21: S3A_OLCI/BOa09 took 0.0s (RevLUT)
+2026-07-19 13:57:21: Wrote rhot_682 (246, 330)
+2026-07-19 13:57:21: Computing surface reflectance
+2026-07-19 13:57:21: Oa10
+2026-07-19 13:57:21: 682
+2026-07-19 13:57:21: 0.968
+2026-07-19 13:57:21: Interpolating tiles
+2026-07-19 13:57:21: Wrote rhos_682 (246, 330)
+2026-07-19 13:57:21: S3A_OLCI/BOa10 took 0.0s (RevLUT)
+2026-07-19 13:57:21: Wrote rhot_709 (246, 330)
+2026-07-19 13:57:21: Computing surface reflectance
+2026-07-19 13:57:21: Oa11
+2026-07-19 13:57:21: 709
+2026-07-19 13:57:21: 0.960
+2026-07-19 13:57:21: Interpolating tiles
+2026-07-19 13:57:21: Wrote rhos_709 (246, 330)
+2026-07-19 13:57:21: S3A_OLCI/BOa11 took 0.1s (RevLUT)
+2026-07-19 13:57:21: Wrote rhot_754 (246, 330)
+2026-07-19 13:57:21: Computing surface reflectance
+2026-07-19 13:57:21: Oa12
+2026-07-19 13:57:21: 754
+2026-07-19 13:57:21: 0.977
+2026-07-19 13:57:21: Interpolating tiles
+2026-07-19 13:57:21: Wrote rhos_754 (246, 330)
+2026-07-19 13:57:21: S3A_OLCI/BOa12 took 0.0s (RevLUT)
+2026-07-19 13:57:21: Wrote rhot_762 (246, 330)
+2026-07-19 13:57:21: Band Oa13 at 762 nm has tgas < min_tgas_rho (0.41 < 0.80)
+2026-07-19 13:57:21: Wrote rhot_765 (246, 330)
+2026-07-19 13:57:21: Band Oa14 at 765 nm has tgas < min_tgas_rho (0.65 < 0.80)
+2026-07-19 13:57:21: Wrote rhot_768 (246, 330)
+2026-07-19 13:57:21: Computing surface reflectance
+2026-07-19 13:57:21: Oa15
+2026-07-19 13:57:21: 768
+2026-07-19 13:57:21: 0.903
+2026-07-19 13:57:21: Interpolating tiles
+2026-07-19 13:57:21: Wrote rhos_768 (246, 330)
+2026-07-19 13:57:21: S3A_OLCI/BOa15 took 0.1s (RevLUT)
+2026-07-19 13:57:21: Wrote rhot_779 (246, 330)
+2026-07-19 13:57:21: Computing surface reflectance
+2026-07-19 13:57:21: Oa16
+2026-07-19 13:57:21: 779
+2026-07-19 13:57:21: 0.991
+2026-07-19 13:57:21: Interpolating tiles
+2026-07-19 13:57:22: Wrote rhos_779 (246, 330)
+2026-07-19 13:57:22: S3A_OLCI/BOa16 took 0.1s (RevLUT)
+2026-07-19 13:57:22: Wrote rhot_865 (246, 330)
+2026-07-19 13:57:22: Computing surface reflectance
+2026-07-19 13:57:22: Oa17
+2026-07-19 13:57:22: 865
+2026-07-19 13:57:22: 0.997
+2026-07-19 13:57:22: Interpolating tiles
+2026-07-19 13:57:22: Wrote rhos_865 (246, 330)
+2026-07-19 13:57:22: S3A_OLCI/BOa17 took 0.1s (RevLUT)
+2026-07-19 13:57:22: Wrote rhot_884 (246, 330)
+2026-07-19 13:57:22: Computing surface reflectance
+2026-07-19 13:57:22: Oa18
+2026-07-19 13:57:22: 884
+2026-07-19 13:57:22: 0.994
+2026-07-19 13:57:22: Interpolating tiles
+2026-07-19 13:57:22: Wrote rhos_884 (246, 330)
+2026-07-19 13:57:22: S3A_OLCI/BOa18 took 0.1s (RevLUT)
+2026-07-19 13:57:22: Wrote rhot_899 (246, 330)
+2026-07-19 13:57:22: Band Oa19 at 899 nm has tgas < min_tgas_rho (0.72 < 0.80)
+2026-07-19 13:57:22: Wrote rhot_939 (246, 330)
+2026-07-19 13:57:22: Band Oa20 at 939 nm has tgas < min_tgas_rho (0.28 < 0.80)
+2026-07-19 13:57:22: Wrote rhot_1016 (246, 330)
+2026-07-19 13:57:22: Computing surface reflectance
+2026-07-19 13:57:22: Oa21
+2026-07-19 13:57:22: 1016
+2026-07-19 13:57:22: 0.990
+2026-07-19 13:57:22: Interpolating tiles
+2026-07-19 13:57:22: Wrote rhos_1016 (246, 330)
+2026-07-19 13:57:22: S3A_OLCI/BOa21 took 0.1s (RevLUT)
+2026-07-19 13:57:22: Wrote D:\work\chagandemo\temp\acolite\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002.SEN3/S3A_OLCI_2020_09_26_02_10_37_FR_L2R.nc
+2026-07-19 13:57:22: Unprojected data D:\work\chagandemo\temp\acolite\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002.SEN3/S3A_OLCI_2020_09_26_02_10_37_FR_L2R.nc. Not outputting GeoTIFF files.
+2026-07-19 13:57:22: L2W keeping data in memory: False
+2026-07-19 13:57:22: rhot datasets:
+2026-07-19 13:57:22: ['rhot_400', 'rhot_412', 'rhot_443', 'rhot_490', 'rhot_510', 'rhot_560', 'rhot_620', 'rhot_665', 'rhot_674', 'rhot_682', 'rhot_709', 'rhot_754', 'rhot_762', 'rhot_765', 'rhot_768', 'rhot_779', 'rhot_865', 'rhot_884', 'rhot_899', 'rhot_939', 'rhot_1016']
+2026-07-19 13:57:22: rhot wavelengths:
+2026-07-19 13:57:22: [400, 412, 443, 490, 510, 560, 620, 665, 674, 682, 709, 754, 762, 765, 768, 779, 865, 884, 899, 939, 1016]
+2026-07-19 13:57:22: rhos datasets:
+2026-07-19 13:57:22: ['rhos_400', 'rhos_412', 'rhos_443', 'rhos_490', 'rhos_510', 'rhos_560', 'rhos_620', 'rhos_665', 'rhos_674', 'rhos_682', 'rhos_709', 'rhos_754', 'rhos_768', 'rhos_779', 'rhos_865', 'rhos_884', 'rhos_1016']
+2026-07-19 13:57:22: rhos wavelengths:
+2026-07-19 13:57:22: [400, 412, 443, 490, 510, 560, 620, 665, 674, 682, 709, 754, 768, 779, 865, 884, 1016]
+2026-07-19 13:57:22: Running ACOLITE flagging function for D:\work\chagandemo\temp\acolite\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002.SEN3/S3A_OLCI_2020_09_26_02_10_37_FR_L2R.nc.
+2026-07-19 13:57:22: Computing non water threshold mask.
+2026-07-19 13:57:22: Computing non water threshold mask from rhot_1016 > 1.0.
+2026-07-19 13:57:22: Computing cirrus mask.
+2026-07-19 13:57:22: Computing cirrus mask from rhot_939 > 0.015.
+2026-07-19 13:57:22: Computing TOA limit mask.
+2026-07-19 13:57:22: Computing TOA limit mask from rhot_443 > 0.3.
+2026-07-19 13:57:22: Computing TOA limit mask from rhot_490 > 0.3.
+2026-07-19 13:57:22: Computing TOA limit mask from rhot_510 > 0.3.
+2026-07-19 13:57:22: Computing TOA limit mask from rhot_560 > 0.3.
+2026-07-19 13:57:22: Computing TOA limit mask from rhot_620 > 0.3.
+2026-07-19 13:57:22: Computing TOA limit mask from rhot_665 > 0.3.
+2026-07-19 13:57:22: Computing TOA limit mask from rhot_674 > 0.3.
+2026-07-19 13:57:22: Computing TOA limit mask from rhot_682 > 0.3.
+2026-07-19 13:57:22: Computing TOA limit mask from rhot_709 > 0.3.
+2026-07-19 13:57:22: Computing TOA limit mask from rhot_754 > 0.3.
+2026-07-19 13:57:22: Computing TOA limit mask from rhot_762 > 0.3.
+2026-07-19 13:57:22: Computing TOA limit mask from rhot_765 > 0.3.
+2026-07-19 13:57:22: Computing TOA limit mask from rhot_768 > 0.3.
+2026-07-19 13:57:22: Computing TOA limit mask from rhot_779 > 0.3.
+2026-07-19 13:57:22: Computing TOA limit mask from rhot_865 > 0.3.
+2026-07-19 13:57:22: Computing TOA limit mask from rhot_884 > 0.3.
+2026-07-19 13:57:22: Computing TOA limit mask from rhot_899 > 0.3.
+2026-07-19 13:57:22: Computing TOA limit mask from rhot_939 > 0.3.
+2026-07-19 13:57:22: Computing TOA limit mask from rhot_1016 > 0.3.
+2026-07-19 13:57:22: Computing negative reflectance mask.
+2026-07-19 13:57:22: Computing negative reflectance mask from rhos_443.
+2026-07-19 13:57:22: Computing negative reflectance mask from rhos_490.
+2026-07-19 13:57:22: Computing negative reflectance mask from rhos_510.
+2026-07-19 13:57:22: Computing negative reflectance mask from rhos_560.
+2026-07-19 13:57:22: Computing negative reflectance mask from rhos_620.
+2026-07-19 13:57:22: Computing negative reflectance mask from rhos_665.
+2026-07-19 13:57:22: Computing negative reflectance mask from rhos_674.
+2026-07-19 13:57:22: Computing negative reflectance mask from rhos_682.
+2026-07-19 13:57:22: Computing negative reflectance mask from rhos_709.
+2026-07-19 13:57:22: Copying datasets from L2R.
+2026-07-19 13:57:22: Copying lon, base dataset lon
+2026-07-19 13:57:22: Writing lon
+2026-07-19 13:57:22: Wrote lon (246, 330)
+2026-07-19 13:57:22: Copying lat, base dataset lat
+2026-07-19 13:57:22: Writing lat
+2026-07-19 13:57:22: Wrote lat (246, 330)
+2026-07-19 13:57:22: Copying Rrs_400, base dataset rhos_400
+2026-07-19 13:57:22: Writing Rrs_400
+2026-07-19 13:57:22: Wrote Rrs_400 (246, 330)
+2026-07-19 13:57:22: Copying Rrs_412, base dataset rhos_412
+2026-07-19 13:57:22: Writing Rrs_412
+2026-07-19 13:57:22: Wrote Rrs_412 (246, 330)
+2026-07-19 13:57:22: Copying Rrs_443, base dataset rhos_443
+2026-07-19 13:57:22: Writing Rrs_443
+2026-07-19 13:57:22: Wrote Rrs_443 (246, 330)
+2026-07-19 13:57:22: Copying Rrs_490, base dataset rhos_490
+2026-07-19 13:57:22: Writing Rrs_490
+2026-07-19 13:57:22: Wrote Rrs_490 (246, 330)
+2026-07-19 13:57:22: Copying Rrs_510, base dataset rhos_510
+2026-07-19 13:57:22: Writing Rrs_510
+2026-07-19 13:57:22: Wrote Rrs_510 (246, 330)
+2026-07-19 13:57:22: Copying Rrs_560, base dataset rhos_560
+2026-07-19 13:57:22: Writing Rrs_560
+2026-07-19 13:57:22: Wrote Rrs_560 (246, 330)
+2026-07-19 13:57:22: Copying Rrs_620, base dataset rhos_620
+2026-07-19 13:57:22: Writing Rrs_620
+2026-07-19 13:57:22: Wrote Rrs_620 (246, 330)
+2026-07-19 13:57:22: Copying Rrs_665, base dataset rhos_665
+2026-07-19 13:57:22: Writing Rrs_665
+2026-07-19 13:57:22: Wrote Rrs_665 (246, 330)
+2026-07-19 13:57:22: Copying Rrs_674, base dataset rhos_674
+2026-07-19 13:57:22: Writing Rrs_674
+2026-07-19 13:57:22: Wrote Rrs_674 (246, 330)
+2026-07-19 13:57:22: Copying Rrs_682, base dataset rhos_682
+2026-07-19 13:57:22: Writing Rrs_682
+2026-07-19 13:57:22: Wrote Rrs_682 (246, 330)
+2026-07-19 13:57:22: Copying Rrs_709, base dataset rhos_709
+2026-07-19 13:57:22: Writing Rrs_709
+2026-07-19 13:57:22: Wrote Rrs_709 (246, 330)
+2026-07-19 13:57:22: Copying Rrs_754, base dataset rhos_754
+2026-07-19 13:57:22: Writing Rrs_754
+2026-07-19 13:57:22: Wrote Rrs_754 (246, 330)
+2026-07-19 13:57:22: Copying Rrs_768, base dataset rhos_768
+2026-07-19 13:57:22: Writing Rrs_768
+2026-07-19 13:57:22: Wrote Rrs_768 (246, 330)
+2026-07-19 13:57:22: Copying Rrs_779, base dataset rhos_779
+2026-07-19 13:57:22: Writing Rrs_779
+2026-07-19 13:57:22: Wrote Rrs_779 (246, 330)
+2026-07-19 13:57:22: Copying Rrs_865, base dataset rhos_865
+2026-07-19 13:57:22: Writing Rrs_865
+2026-07-19 13:57:22: Wrote Rrs_865 (246, 330)
+2026-07-19 13:57:22: Copying Rrs_884, base dataset rhos_884
+2026-07-19 13:57:22: Writing Rrs_884
+2026-07-19 13:57:22: Wrote Rrs_884 (246, 330)
+2026-07-19 13:57:22: Copying Rrs_1016, base dataset rhos_1016
+2026-07-19 13:57:22: Writing Rrs_1016
+2026-07-19 13:57:22: Wrote Rrs_1016 (246, 330)
+2026-07-19 13:57:22: Wrote l2_flags (246, 330)
+2026-07-19 13:57:22: Wrote D:\work\chagandemo\temp\acolite\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002.SEN3/S3A_OLCI_2020_09_26_02_10_37_FR_L2W.nc
+2026-07-19 13:57:22: Unprojected data D:\work\chagandemo\temp\acolite\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002.SEN3/S3A_OLCI_2020_09_26_02_10_37_FR_L2W.nc. Not outputting GeoTIFF files.
+2026-07-19 13:57:24: Wrote D:\work\chagandemo\temp\acolite\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002.SEN3/S3A_OLCI_2020_09_26_02_10_37_FR_L2W_Rrs_400.png
+2026-07-19 13:57:25: Wrote D:\work\chagandemo\temp\acolite\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002.SEN3/S3A_OLCI_2020_09_26_02_10_37_FR_L2W_Rrs_412.png
+2026-07-19 13:57:25: Wrote D:\work\chagandemo\temp\acolite\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002.SEN3/S3A_OLCI_2020_09_26_02_10_37_FR_L2W_Rrs_443.png
+2026-07-19 13:57:25: Wrote D:\work\chagandemo\temp\acolite\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002.SEN3/S3A_OLCI_2020_09_26_02_10_37_FR_L2W_Rrs_490.png
+2026-07-19 13:57:26: Wrote D:\work\chagandemo\temp\acolite\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002.SEN3/S3A_OLCI_2020_09_26_02_10_37_FR_L2W_Rrs_510.png
+2026-07-19 13:57:26: Wrote D:\work\chagandemo\temp\acolite\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002.SEN3/S3A_OLCI_2020_09_26_02_10_37_FR_L2W_Rrs_560.png
+2026-07-19 13:57:26: Wrote D:\work\chagandemo\temp\acolite\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002.SEN3/S3A_OLCI_2020_09_26_02_10_37_FR_L2W_Rrs_620.png
+2026-07-19 13:57:27: Wrote D:\work\chagandemo\temp\acolite\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002.SEN3/S3A_OLCI_2020_09_26_02_10_37_FR_L2W_Rrs_665.png
+2026-07-19 13:57:27: Wrote D:\work\chagandemo\temp\acolite\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002.SEN3/S3A_OLCI_2020_09_26_02_10_37_FR_L2W_Rrs_674.png
+2026-07-19 13:57:27: Wrote D:\work\chagandemo\temp\acolite\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002.SEN3/S3A_OLCI_2020_09_26_02_10_37_FR_L2W_Rrs_682.png
+2026-07-19 13:57:27: Wrote D:\work\chagandemo\temp\acolite\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002.SEN3/S3A_OLCI_2020_09_26_02_10_37_FR_L2W_Rrs_709.png
+2026-07-19 13:57:28: Wrote D:\work\chagandemo\temp\acolite\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002.SEN3/S3A_OLCI_2020_09_26_02_10_37_FR_L2W_Rrs_754.png
+2026-07-19 13:57:28: Wrote D:\work\chagandemo\temp\acolite\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002.SEN3/S3A_OLCI_2020_09_26_02_10_37_FR_L2W_Rrs_768.png
+2026-07-19 13:57:28: Wrote D:\work\chagandemo\temp\acolite\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002.SEN3/S3A_OLCI_2020_09_26_02_10_37_FR_L2W_Rrs_779.png
+2026-07-19 13:57:29: Wrote D:\work\chagandemo\temp\acolite\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002.SEN3/S3A_OLCI_2020_09_26_02_10_37_FR_L2W_Rrs_865.png
+2026-07-19 13:57:29: Wrote D:\work\chagandemo\temp\acolite\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002.SEN3/S3A_OLCI_2020_09_26_02_10_37_FR_L2W_Rrs_884.png
+2026-07-19 13:57:29: Wrote D:\work\chagandemo\temp\acolite\S3A_OL_1_EFR____20200926T021037_20200926T021337_20200927T065029_0179_063_160_2160_LN1_O_NT_002.SEN3/S3A_OLCI_2020_09_26_02_10_37_FR_L2W_Rrs_1016.png
